@@ -1,8 +1,8 @@
-<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3DFBB741%26height%3D120%26section%3Dheader" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3DFBB741%26height%3D120%26section%3Dheader" alt="header"/>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DSpace%2BMono%26weight%3D700%26size%3D30%26duration%3D4000%26pause%3D500%26color%3D000000%26center%3Dtrue%26width%3D600%26lines%3DSyed%2BMuzaffer%2BAli%3BFull%2BStack%2BDeveloper%3BMERN%2BStack%2BSpecialist" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com%3Ffont%3DSpace%2BMono%26weight%3D700%26size%3D30%26duration%3D4000%26pause%3D500%26color%3D000000%26center%3Dtrue%26width%3D600%26lines%3DSyed%2BMuzaffer%2BAli%3BFull%2BStack%2BDeveloper%3BMERN%2BStack%2BSpecialist" alt="Typing SVG"/>
 </a>
 </div>
 
@@ -17,7 +17,7 @@ I'm a passionate and detail-oriented Full Stack Developer specializing in buildi
 <h3 align="center">Frontend</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,js,html,css,tailwind,svelte,vue" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons%3Fi%3Dreact,js,html,css,tailwind" alt="Frontend Skills"/>
 </a>
 </p>
 </td>
@@ -25,7 +25,7 @@ I'm a passionate and detail-oriented Full Stack Developer specializing in buildi
 <h3 align="center">Backend</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,python" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons%3Fi%3Dnodejs,express,python" alt="Backend Skills"/>
 </a>
 </p>
 </td>
@@ -62,7 +62,7 @@ alt="AlRahmaHill Hospital Management System"
 <a href="https://www.google.com/search?q=https://github.com/Muzzu153/My-Portfolio">
 <img
 align="center"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuzzu153%26repo%3DMy-Portfolio%26theme%3Dtransparent%26border_color%3D000000%26title_color%3D000000%26text_color%3D000000%26icon_color%3D4361EE"
+src="https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuzzu153%26repo%3DMy-Portfolio%26theme%3Dtransparent%26border_color%3D000000%26title_color%3D000000%26text_color%3D000000%26icon_color%3D4361EE"
 alt="Neobrutalist Portfolio"
 />
 </a>
@@ -76,11 +76,11 @@ alt="Neobrutalist Portfolio"
 📬 Connect with Me
 <p align="center">
 <a href="https://muzaffer-portfolio.netlify.app/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FBB741%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-FBB741%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="Portfolio">
 </a>
 &nbsp;
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/syed-muzaffer-ali-b1b3a3233/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-4361EE%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/syed-muzaffer-ali-b1b3a3233/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-4361EE%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="mailto:muzzusyed153@gmail.com">
