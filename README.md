@@ -1,36 +1,54 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Muzzu153/My-Portfolio/main/public/neobrutalism-banner.png" alt="Muzaffer Ali - Full Stack Developer Banner">
-</div>
+<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3DFBB741%26height%3D120%26section%3Dheader" alt="header"/>
 
 <div align="center">
-
-Syed Muzaffer Ali | Full Stack Developer
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DSpace%2BMono%26weight%3D700%26size%3D30%26duration%3D4000%26pause%3D500%26color%3D000000%26center%3Dtrue%26width%3D600%26lines%3DSyed%2BMuzaffer%2BAli%3BFull%2BStack%2BDeveloper%3BMERN%2BStack%2BSpecialist" alt="Typing SVG"/>
+</a>
 </div>
 
 <p align="center">
-Passionate developer specializing in the MERN stack. I transform complex problems into elegant, user-centric digital solutions with clean, scalable code.
+I'm a passionate and detail-oriented Full Stack Developer specializing in building modern, functional, and visually striking web applications from the ground up. I enjoy solving complex problems with clean, scalable code.
 </p>
 
-<p align="center">
-<a href="https://muzaffer-portfolio.netlify.app/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-View_Here-FBB741%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack%26color%3DFBB741%26labelColor%3D000000" alt="Portfolio">
-</a>
-&nbsp;
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/syed-muzaffer-ali-b1b3a3233/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26color%3D4361EE%26labelColor%3D000000" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:muzzusyed153@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-lightgrey%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dblack%26color%3DF5F5F5%26labelColor%3D000000" alt="Email">
-</a>
-</p>
-
-🛠️ My Tech Stack & Tools
+🛠️ My Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
+<h3 align="center">Frontend</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nodejs,express,mongodb,tailwind,js,html,css,postgres,prisma,git,docker,vite,webpack,figma,python,svelte,vue%26perline%3D9" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,js,html,css,tailwind,svelte,vue" alt="Frontend Skills"/>
 </a>
 </p>
+</td>
+<td valign="top" width="50%">
+<h3 align="center">Backend</h3>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,python" alt="Backend Skills"/>
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3 align="center">Databases & ORM/ODM</h3>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,postgres,prisma,mongoose" alt="Database Skills"/>
+</a>
+</p>
+</td>
+<td valign="top" width="50%">
+<h3 align="center">Tools & DevOps</h3>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,docker,vite,webpack,netlify,figma" alt="Tools & DevOps Skills"/>
+</a>
+</p>
+</td>
+</tr>
+</table>
 
 🚀 My Featured Projects
 <div align="center">
@@ -50,7 +68,24 @@ alt="Neobrutalist Portfolio"
 </a>
 </div>
 
-📊 My GitHub Stats & Activity
+📊 My GitHub Stats
 <div align="center">
 
 </div>
+
+📬 Connect with Me
+<p align="center">
+<a href="https://muzaffer-portfolio.netlify.app/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FBB741%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/syed-muzaffer-ali-b1b3a3233/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-4361EE%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:muzzusyed153@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-lightgrey%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dblack" alt="Email">
+</a>
+</p>
+
+<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3DFBB741%26height%3D120%26section%3Dfooter" alt="footer"/>
