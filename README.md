@@ -1,91 +1,71 @@
-<img width="100%" src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3DFBB741%26height%3D120%26section%3Dheader" alt="header"/>
-
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com%3Ffont%3DSpace%2BMono%26weight%3D700%26size%3D30%26duration%3D4000%26pause%3D500%26color%3D000000%26center%3Dtrue%26width%3D600%26lines%3DSyed%2BMuzaffer%2BAli%3BFull%2BStack%2BDeveloper%3BMERN%2BStack%2BSpecialist" alt="Typing SVG"/>
-</a>
-</div>
 
-<p align="center">
-I'm a passionate and detail-oriented Full Stack Developer specializing in building modern, functional, and visually striking web applications from the ground up. I enjoy solving complex problems with clean, scalable code.
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=600&height=70&lines=MUZAFFER+ALI+SYED;FULL+STACK+DEVELOPER;BUILDING+BOLD+SOLUTIONS)
 
-🛠️ My Tech Stack
-<table>
-<tr>
-<td valign="top" width="50%">
-<h3 align="center">Frontend</h3>
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons%3Fi%3Dreact,js,html,css,tailwind" alt="Frontend Skills"/>
-</a>
-</p>
-</td>
-<td valign="top" width="50%">
-<h3 align="center">Backend</h3>
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons%3Fi%3Dnodejs,express,python" alt="Backend Skills"/>
-</a>
-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-<h3 align="center">Databases & ORM/ODM</h3>
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,postgres,prisma,mongoose" alt="Database Skills"/>
-</a>
-</p>
-</td>
-<td valign="top" width="50%">
-<h3 align="center">Tools & DevOps</h3>
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,docker,vite,webpack,netlify,figma" alt="Tools & DevOps Skills"/>
-</a>
-</p>
-</td>
-</tr>
-</table>
-
-🚀 My Featured Projects
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/Muzzu153/AlRahmaHill-Hospital-Management-System">
-<img
-align="center"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuzzu153%26repo%3DAlRahmaHill-Hospital-Management-System%26theme%3Dtransparent%26border_color%3D000000%26title_color%3D000000%26text_color%3D000000%26icon_color%3D4361EE"
-alt="AlRahmaHill Hospital Management System"
-/>
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Muzzu153/My-Portfolio">
-<img
-align="center"
-src="https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuzzu153%26repo%3DMy-Portfolio%26theme%3Dtransparent%26border_color%3D000000%26title_color%3D000000%26text_color%3D000000%26icon_color%3D4361EE"
-alt="Neobrutalist Portfolio"
-/>
-</a>
-</div>
-
-📊 My GitHub Stats
-<div align="center">
+```
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+```
 
 </div>
 
-📬 Connect with Me
-<p align="center">
-<a href="https://muzaffer-portfolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FBB741%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="Portfolio">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/syed-muzaffer-ali-b1b3a3233/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-4361EE%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:muzzusyed153@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-lightgrey%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dblack" alt="Email">
-</a>
-</p>
+---
 
-<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3DFBB741%26height%3D120%26section%3Dfooter" alt="footer"/>
+## ■ ABOUT
+
+I'm a passionate and detail-oriented **FULL STACK DEVELOPER** specializing in building modern, functional, and visually striking web applications from the ground up. I enjoy solving complex problems with clean, scalable code.
+
+---
+
+## ■ SKILLS
+
+### **FRONTEND**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+### **BACKEND**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### **TOOLS**
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## ■ PROJECTS
+
+### **AlRahmaHill**
+🔗 [alrahmahill.netlify.app](https://alrahmahill.netlify.app/)
+
+### **Portfolio**
+🔗 [muzaffer-portfolio.netlify.app](https://muzaffer-portfolio.netlify.app/)
+
+---
+
+## ■ CONNECT
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://muzaffer-portfolio.netlify.app/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Muzzu153)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzafferalisyed/)
+
+---
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓ MUZAFFER ALI SYED © 2025 | FULL STACK DEVELOPER ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
