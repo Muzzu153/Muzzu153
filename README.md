@@ -1,3 +1,21 @@
+<!-- 
+This README has been updated with the "Solarized Brutalist" color scheme.
+Primary: #b58900 (Bold Yellow)
+Secondary: #2aa198 (Strong Cyan)
+-->
+
+<div align="center">
+
+<!-- Typing SVG with updated color -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=b58900&background=FFFFFF00&center=true&vCenter=true&width=600&height=70&lines=MUZAFFER+ALI+SYED;FULL+STACK+DEVELOPER;BUILDING+BOLD+SOLUTIONS)
+
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+
 
 </div>
 
@@ -76,3 +94,7 @@ I'm a passionate and detail-oriented **FULL STACK DEVELOPER** specializing in bu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muzzu153&show_icons=true&theme=solarized-dark&border_color=b58900&title_color=2aa198&text_color=eee8d5&icon_color=b58900" alt="Muzzu153's GitHub Stats">
 </p>
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓ MUZAFFER ALI SYED © 2025 | FULL STACK DEVELOPER ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
