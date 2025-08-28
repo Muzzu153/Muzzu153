@@ -1,15 +1,15 @@
 <!-- 
 Hi! You've found the code for my GitHub Profile README.
-Feel free to look around, but the real magic is on my portfolio!
+This version uses a "Solarized Brutalist" color theme.
 -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=500&lines=SYED+MUZAFFER+ALI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=3000&pause=500&color=b58900&center=true&vCenter=true&width=500&lines=SYED+MUZAFFER+ALI" alt="Typing SVG" /></a>
 </p>
 
 <!-- Section: About Me -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ABOUT%20ME-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=FF007F" alt="About Me Header">
+  <img src="https://img.shields.io/badge/ABOUT%20ME-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=2aa198" alt="About Me Header">
 </p>
 
 > I'm a passionate and detail-oriented **FULL STACK DEVELOPER** specializing in building modern, functional, and visually striking web applications from the ground up. I enjoy solving complex problems with clean, scalable code.
@@ -18,7 +18,7 @@ Feel free to look around, but the real magic is on my portfolio!
 
 <!-- Section: My Tech Stack -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MY%20TECH%20STACK-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=39FF14" alt="My Tech Stack Header">
+  <img src="https://img.shields.io/badge/MY%20TECH%20STACK-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=b58900" alt="My Tech Stack Header">
 </p>
 
 <table width="100%">
@@ -55,7 +55,7 @@ Feel free to look around, but the real magic is on my portfolio!
 
 <!-- Section: Featured Projects -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FEATURED%20PROJECTS-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=FF007F" alt="Featured Projects Header">
+  <img src="https://img.shields.io/badge/FEATURED%20PROJECTS-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=2aa198" alt="Featured Projects Header">
 </p>
 
 <table width="100%">
@@ -64,14 +64,14 @@ Feel free to look around, but the real magic is on my portfolio!
       <h3>🏥 AlRahmaHill - Hospital Management System</h3>
       <p>A comprehensive hospital management system built with the MERN stack. Features patient appointment booking, user authentication, prescription management, and a complete admin panel.</p>
       <a href="https://alrahmahill.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-39FF14?style=for-the-badge&logo=netlify&logoColor=black" alt="Live Demo">
+        <img src="https://img.shields.io/badge/Live_Demo-b58900?style=for-the-badge&logo=netlify&logoColor=black" alt="Live Demo">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 My Personal Portfolio</h3>
       <p>A fully responsive, neobrutalist-themed personal portfolio built from scratch with React and Tailwind CSS to showcase my skills and projects.</p>
       <a href="https://muzaffer-portfolio.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/View_Portfolio-39FF14?style=for-the-badge&logo=react&logoColor=black" alt="View Portfolio">
+        <img src="https://img.shields.io/badge/View_Portfolio-b58900?style=for-the-badge&logo=react&logoColor=black" alt="View Portfolio">
       </a>
     </td>
   </tr>
@@ -81,12 +81,12 @@ Feel free to look around, but the real magic is on my portfolio!
 
 <!-- Section: Connect With Me -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=39FF14" alt="Connect With Me Header">
+  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=b58900" alt="Connect With Me Header">
 </p>
 
 <p align="center">
   <a href="https://muzaffer-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF007F?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-2aa198?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/muzafferalisyed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -98,5 +98,5 @@ Feel free to look around, but the real magic is on my portfolio!
 
 <!-- Footer: GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzzu153&show_icons=true&theme=transparent&border_color=39FF14&title_color=FF007F&text_color=F0F0F0&icon_color=39FF14" alt="Muzzu153's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzzu153&show_icons=true&theme=solarized-dark&border_color=b58900&title_color=2aa198&text_color=eee8d5&icon_color=b58900" alt="Muzzu153's GitHub Stats">
 </p>
