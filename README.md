@@ -1,37 +1,27 @@
-<!-- 
-This README has been updated with the "Solarized Brutalist" color scheme.
-Primary: #b58900 (Bold Yellow)
-Secondary: #2aa198 (Strong Cyan)
--->
-
 <div align="center">
 
-<!-- Typing SVG with updated color -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=b58900&background=FFFFFF00&center=true&vCenter=true&width=600&height=70&lines=MUZAFFER+ALI+SYED;FULL+STACK+DEVELOPER;BUILDING+BOLD+SOLUTIONS)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=600&height=70&lines=MUZAFFER+ALI+SYED;FULL+STACK+DEVELOPER;BUILDING+BOLD+SOLUTIONS)
 
+```
 ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
 ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
 ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
 ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
 ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
 ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
-
+```
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ABOUT%20ME-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=2aa198" alt="About Me Header">
-</p>
+## ■ ABOUT
 
 I'm a passionate and detail-oriented **FULL STACK DEVELOPER** specializing in building modern, functional, and visually striking web applications from the ground up. I enjoy solving complex problems with clean, scalable code.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MY%20TECH%20STACK-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=b58900" alt="My Tech Stack Header">
-</p>
+## ■ SKILLS
 
 ### **FRONTEND**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,45 +46,26 @@ I'm a passionate and detail-oriented **FULL STACK DEVELOPER** specializing in bu
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FEATURED%20PROJECTS-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=2aa198" alt="Featured Projects Header">
-</p>
+## ■ PROJECTS
 
 ### **AlRahmaHill**
-<a href="https://alrahmahill.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-b58900?style=for-the-badge&logo=netlify&logoColor=black" alt="Live Demo">
-</a>
+🔗 [alrahmahill.netlify.app](https://alrahmahill.netlify.app/)
 
 ### **Portfolio**
-<a href="https://muzaffer-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/View_Portfolio-b58900?style=for-the-badge&logo=react&logoColor=black" alt="View Portfolio">
-</a>
+🔗 [muzaffer-portfolio.netlify.app](https://muzaffer-portfolio.netlify.app/)
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-111111?style=for-the-badge&logo=&logoColor=F0F0F0&labelColor=111111&color=b58900" alt="Connect With Me Header">
-</p>
+## ■ CONNECT
 
-<p align="center">
-  <a href="https://muzaffer-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2aa198?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://x.com/Muzzu153" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muzafferalisyed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://muzaffer-portfolio.netlify.app/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Muzzu153)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzafferalisyed/)
 
 ---
 
-<!-- GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzzu153&show_icons=true&theme=solarized-dark&border_color=b58900&title_color=2aa198&text_color=eee8d5&icon_color=b58900" alt="Muzzu153's GitHub Stats">
-</p>
-
+```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ▓ MUZAFFER ALI SYED © 2025 | FULL STACK DEVELOPER ▓
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
